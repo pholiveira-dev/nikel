@@ -32,8 +32,8 @@ O projeto está publicado e pode ser acessado através do link:
 
 Para rodar o código na sua máquina, você precisará ter o Git instalado.
 
-1. Clone o repositório:
 ```bash
+1. Clone o repositório:
 git clone [https://github.com/seu-usuario/nikel.git](https://github.com/seu-usuario/nikel.git)
 
 2. Acesse a pasta do projeto:
